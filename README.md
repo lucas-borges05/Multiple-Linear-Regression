@@ -1,12 +1,12 @@
-# 🚗 Previsão de Emissões de CO₂ — Regressão Linear Múltipla
+#  Previsão de Emissões de CO₂ — Regressão Linear Múltipla
 
 Projeto de Machine Learning utilizando **Regressão Linear Múltipla** para prever emissões de CO₂ de veículos a partir de múltiplas características.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Desenvolver um modelo capaz de estimar as **emissões de CO₂ (g/km)** considerando simultaneamente diferentes características dos veículos.
 
-## 🧠 Conceitos aplicados
+##  Conceitos aplicados
 
 * Regressão Linear Múltipla
 * Análise exploratória de dados
@@ -18,7 +18,7 @@ Desenvolver um modelo capaz de estimar as **emissões de CO₂ (g/km)** consider
 * Interpretação de coeficientes
 * Visualização dos resultados
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 * Python
 * Pandas
@@ -27,7 +27,7 @@ Desenvolver um modelo capaz de estimar as **emissões de CO₂ (g/km)** consider
 * Scikit-learn
 * Jupyter Notebook
 
-## 📊 Variáveis analisadas
+##  Variáveis analisadas
 
 Entre as características utilizadas na modelagem estão:
 
@@ -37,7 +37,7 @@ Entre as características utilizadas na modelagem estão:
 
 Durante a análise, também são avaliadas relações entre variáveis para reduzir redundâncias e selecionar atributos mais relevantes para o modelo.
 
-## 🔎 Abordagem
+##  Abordagem
 
 O projeto passa pelas principais etapas de um fluxo de Machine Learning:
 
@@ -50,11 +50,11 @@ O projeto passa pelas principais etapas de um fluxo de Machine Learning:
 7. Análise dos coeficientes;
 8. Visualização e avaliação dos resultados.
 
-## 💡 Aprendizados
+##  Aprendizados
 
 O projeto permitiu compreender como múltiplas variáveis podem ser utilizadas conjuntamente para explicar uma variável-alvo e como correlação e multicolinearidade podem influenciar modelos de regressão.
 
-## 📁 Estrutura
+##  Estrutura
 
 ```text
 ├── Mulitple-Linear-Regression-v1.ipynb
